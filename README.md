@@ -1,4 +1,4 @@
-![](emoji/xzy_github.gif)
+<!-- ![](emoji/xzy_github.gif) -->
 
 <div align="center">
 
